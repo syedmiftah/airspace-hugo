@@ -2,9 +2,9 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/earth-11595.jpg"
+  bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Transforming Aviation and Maritime <br/> & From Space"
+  title: "Transforming Aviation and <br/> Maritime From Space"
   content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
     enable: true
