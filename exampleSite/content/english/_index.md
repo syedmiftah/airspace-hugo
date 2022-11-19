@@ -5,7 +5,7 @@ banner:
   bg_image: "images/main_bkg.jpg"
   bg_overlay: true
   title: "Transforming Aviation and <br/> Maritime From Space"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  content: "Tailored solution using global real-time data for insightful decision making"
   button:
     enable: true
     label: "Discover Our Project"
@@ -24,7 +24,7 @@ about:
 portfolio:
   enable: true
   bg_image: "images/old-ship.jpg"
-  title: "TOWARDS FUTURE OF SHIPPING"
+  title: "TOWARDS THE FUTURE OF SHIPPING"
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 
