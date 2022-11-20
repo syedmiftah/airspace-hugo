@@ -14,9 +14,9 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "Benefits"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  title: "Our Advantage"
+  description: "With our space based seamless global data both for Aviation and Maritime, say goodbye to data gaps and variable latency while significantly saving cost on ground based infrastructure "
+  content: "Our services are independent of weather, Ground stations as well as Geopolitics. Be it airspace utilization, live fleet monitoring, real-time analytics, SAR, or law enforcement, our tailor made data products will provide you new insights for increased efficiency and higher profitability. Our services are avaialble even in the most remote part of the world. Whether you are a government agency, private entity, shipping company, airline, Insurance provider or an International organisation, we can tailor our products to suit your needs "
   image: "images/wrapper-img.png"
 
 
@@ -24,7 +24,7 @@ about:
 portfolio:
   enable: true
   bg_image: "images/old-ship.jpg"
-  title: "TOWARDS THE FUTURE OF SHIPPING"
+  title: "How we do it?"
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 

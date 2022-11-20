@@ -82,12 +82,12 @@ service:
 
     # service item loop
     - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
-      name: Reports and Dashboards
+      name: Security
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
-      name: Security
+      name: Reports and Dashboards
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 ############################# call to action #################################
