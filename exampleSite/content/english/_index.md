@@ -25,10 +25,10 @@ portfolio:
   enable: true
   bg_image: "images/old-ship.jpg"
   title: "How we do it?"
-  content: " With our own constellations of satellites capable of receiving AIS and ADS-B signals from space and dowlinking that data within seconds at our ground based servers, we are a global leader in speed and consistency.
+  content: " With our own constellation of satellites capable of receiving AIS and ADS-B signals from space and dowlinking that data within seconds at our ground based servers, we are a global leader in speed and consistency.
 
 
-  Our inhouse algorithms help us to process and filter the raw data in record time. Let it be a live data feed to your system or processing data for our own products, we offer an exemplary service with the best terms around the globe.
+  Our inhouse algorithms help us to process and filter the raw data in record time. Let it be a live data feed to your system or processing data for our own products, we offer an exemplary service at the best price around the globe.
 
 
   Since our products and offerings are highly customisable, we will find the best match for your need. We have a very competent team with diverse expertise that truly understands our customers. 
