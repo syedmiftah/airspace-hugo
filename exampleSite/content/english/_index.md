@@ -49,8 +49,8 @@ service:
 cta:
   enable: true
   bg_image: "images/marine_routes.png"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Towards the future need of aviation and maritime."
+  content: "With the increasing maritime and aviation traffic worldwide leading to cargo delays and flight <br> cancellations, product and services based on real-time data are critical for decsion making."
   button:
     enable: true
     label: "Tell Us Your Story"
