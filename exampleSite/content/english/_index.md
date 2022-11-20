@@ -16,7 +16,7 @@ about:
   enable: true
   title: "Our Advantage"
   description: "With our space-based seamless global data both for Aviation and Maritime, say goodbye to data gaps and variable latency while significantly saving costs on ground infrastructure "
-  content: "Our services are independent of weather, ground stations as well as geopolitics. Be it airspace utilization, live fleet monitoring, real-time analytics, SAR or law enforcement, our tailor-made data products will provide you with new insights for increased efficiency and higher profitability. Our services are available even in the most remote part of the world. Whether you are a government agency, private entity, shipping company, airline, Insurance provider or an International organisation, we can tailor our products to suit your needs. "
+  content: "Our services are independent of weather, ground stations as well as geopolitics. Be it airspace utilization, live fleet monitoring, real-time analytics, SAR or law enforcement, our tailor-made data products will provide you with new insights for increased efficiency and higher profitability. Our services are available even in the most remote part of the world. Whether you are a government agency, private entity, shipping company, airline, Insurance provider, an International organisation or anyone else, we can tailor our products to suit your needs. "
   image: "images/atc_tower.jpg"
 
 
