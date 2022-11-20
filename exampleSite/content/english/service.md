@@ -52,42 +52,42 @@ service:
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
-      name: Branding
+      name: AirSpace Management
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
-      name: Web Design
+      name: Data as a Service
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-image #https://fontawesome.com/v5.15/icons
-      name: App Design
+      name: Traffic Prediction
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-bug #https://fontawesome.com/v5.15/icons
-      name: Start Up
+      name: Port traffic management
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
-      name: Logo Design
+      name: Live fleet view
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
+      name: Real-time analytics
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
+      name: EEZ Monitoring
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
+      name: Security
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 ############################# call to action #################################
