@@ -23,7 +23,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/old-ship.jpg"
+  bg_image: "images/routes_edited.png"
   title: "HOW WE DO IT?"
   content: " With our own constellation of satellites capable of receiving AIS and ADS-B signals from space and downlinking that data within seconds at our ground-based servers, we are a global leader in speed and consistency.
 
