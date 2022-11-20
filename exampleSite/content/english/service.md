@@ -47,8 +47,7 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "We build our products considering our clients technical abilities, so our user interface is interactive,  simple and <br> easy to use. Our services are designed to enrich our clients with improved situational awareness for insightful decision making"
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
