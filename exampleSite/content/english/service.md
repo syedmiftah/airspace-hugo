@@ -82,7 +82,7 @@ service:
 
     # service item loop
     - icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
-      name: EEZ Monitoring
+      name: Reports and Dashboards
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
