@@ -49,8 +49,8 @@ service:
 cta:
   enable: true
   bg_image: "images/marine_routes.png"
-  title: "Towards the future need of aviation and maritime."
-  content: "With the increasing maritime and aviation traffic worldwide leading to cargo delays and flight <br> cancellations, product and services based on real-time data are critical for decsion making."
+  title: "Addressing the future of aviation and maritime."
+  content: "With the increasing maritime and aviation traffic worldwide leading to cargo delays and flight cancellations, <br> product and services based on real-time data are getting more and more critical for decsion making."
   button:
     enable: true
     label: "Tell Us Your Story"
