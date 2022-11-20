@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/main_bkg.jpg"
+  bg_image: "images/bkg_2.png"
   bg_overlay: true
   title: "Global real-time data products for <br/> Aviation and Maritime"
   content: "Tailored solution using space-based AIS and ADS-B for enhanced real-time maritime and air traffic surveillance, analytics and Innovation which is critical for business, safety and security"
@@ -48,7 +48,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/main_bkg.jpg"
   title: "We design delightful digital experiences."
   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
