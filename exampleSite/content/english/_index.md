@@ -15,8 +15,8 @@ banner:
 about:
   enable: true
   title: "Our Advantage"
-  description: "With our space based seamless global data both for Aviation and Maritime, say goodbye to data gaps and variable latency while significantly saving cost on ground based infrastructure "
-  content: "Our services are independent of weather, ground stations as well as geopolitics. Be it airspace utilization, live fleet monitoring, real-time analytics, SAR or law enforcement, our tailor made data products will provide you new insights for increased efficiency and higher profitability. Our services are available even in the most remote part of the world. Whether you are a government agency, private entity, shipping company, airline, Insurance provider or an International organisation, we can tailor our products to suit your needs. "
+  description: "With our space-based seamless global data both for Aviation and Maritime, say goodbye to data gaps and variable latency while significantly saving costs on ground infrastructure "
+  content: "Our services are independent of weather, ground stations as well as geopolitics. Be it airspace utilization, live fleet monitoring, real-time analytics, SAR or law enforcement, our tailor-made data products will provide you with new insights for increased efficiency and higher profitability. Our services are available even in the most remote part of the world. Whether you are a government agency, private entity, shipping company, airline, Insurance provider or an International organisation, we can tailor our products to suit your needs. "
   image: "images/atc_tower.jpg"
 
 
@@ -25,10 +25,10 @@ portfolio:
   enable: true
   bg_image: "images/old-ship.jpg"
   title: "How we do it?"
-  content: " With our own constellation of satellites capable of receiving AIS and ADS-B signals from space and dowlinking that data within seconds at our ground based servers, we are a global leader in speed and consistency.
+  content: " With our own constellation of satellites capable of receiving AIS and ADS-B signals from space and downlinking that data within seconds at our ground-based servers, we are a global leader in speed and consistency.
 
 
-  Our inhouse algorithms help us to process and filter the raw data in record time. Let it be a live data feed to your system or processing data for our own products, we offer an exemplary service at the best price around the globe.
+  Our in-house algorithms help us to process and filter the raw data in record time. Let it be a live data feed to your system or processing data for our own products, we offer an exemplary service at the best price around the globe.
 
 
   Since our products and offerings are highly customisable, we will find the best match for your need. We have a very competent team with diverse expertise that truly understands our customers. 
