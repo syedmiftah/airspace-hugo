@@ -34,7 +34,7 @@ portfolio:
   Since our products and offerings are highly customisable, we will find the best match for your need. We have a very competent team with diverse expertise that truly understands our customers. 
   "
   button:
-    enable: true
+    enable: false
     label: "View Works"
     link: "project/"
 
