@@ -23,7 +23,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/marine_routes.png"
+  bg_image: "images/routes_edited.png"
   title: "HOW WE DO IT?"
   content: " With our own constellation of satellites capable of receiving AIS and ADS-B signals from space and downlinking that data within seconds at our ground-based servers, we are a global leader in speed and consistency.
 
@@ -48,7 +48,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/routes_edited.png"
+  bg_image: "images/marine_routes.png"
   title: "We design delightful digital experiences."
   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
