@@ -5,7 +5,7 @@ banner:
   bg_image: "images/main_bkg.jpg"
   bg_overlay: true
   title: "Global real-time data products for <br/> Aviation and Maritime"
-  content: "Tailored solution using Space-based AIS and ADS-B for enhanced real-time maritime and air traffic surveillance, analytics and Innovation for insightful decision making"
+  content: "Tailored solution using space-based AIS and ADS-B for enhanced real-time maritime and air traffic surveillance, analytics and Innovation which is critical for business, safety and security"
   button:
     enable: true
     label: "Discover Our Project"
