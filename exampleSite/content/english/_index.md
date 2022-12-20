@@ -8,7 +8,7 @@ banner:
   content: "SPACE-SHIP offers cloud based solutions for the maritime industry which uses machine learning and AI techniques to achieve previously out of the reach operational efficiencies."
   button:
     enable: true
-    label: "Discover Our Project"
+    label: "Discover Our Offerings"
     link: "project/"
 
 ############################# About #################################
