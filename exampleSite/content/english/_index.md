@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/bkg_2.png"
   bg_overlay: true
-  title: "Global real-time data products for <br/> Aviation and Maritime"
+  title: "Intelligent and Dynamic Ship Information services <br/> using space-based data"
   content: "Tailored solution using space-based AIS and ADS-B for enhanced real-time maritime and air traffic surveillance, analytics and Innovation which is critical for business, safety and security"
   button:
     enable: true
