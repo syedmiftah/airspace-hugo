@@ -5,7 +5,7 @@ banner:
   bg_image: "images/bkg_2.png"
   bg_overlay: true
   title: "Intelligent and Dynamic Ship Information Solutions <br/> using Real-time data"
-  content: "Tailored solution using space-based AIS and ADS-B for enhanced real-time maritime and air traffic surveillance, analytics and Innovation which is critical for business, safety and security"
+  content: "SPACE-SHIP offers cloud based solutions for the maritime industry which uses machine learning and AI techniques to achieve previously out of the reach operational efficiencies."
   button:
     enable: true
     label: "Discover Our Project"
